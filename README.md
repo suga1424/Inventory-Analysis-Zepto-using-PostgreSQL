@@ -1,7 +1,7 @@
 # 🧩 E‑Commerce Inventory Analysis | PostgreSQL
 
 **Overview**  
-Analyzed real inventory data from Zepto using PostgreSQL. Performed structured EDA, cleaned data, and answered key business questions on stock levels, discounts, product weight tiers, and revenue per category.
+Analyzed inventory data from Zepto using PostgreSQL. Performed EDA, cleaned data, and answered key business questions on stock levels, discounts, product weight tiers, and revenue per category.
 
 ---
 
