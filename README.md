@@ -28,23 +28,24 @@ Analyzed real inventory data from Zepto using PostgreSQL. Performed structured E
 5. **Key Insights**
 
 **Deepest Discounts**
-Several products are priced at 30–50% off, which may reflect clearance strategies or margin trade-offs.
+
+✪.Several products are priced at 30–50% off, which may reflect clearance strategies or margin trade-offs.
 
 **Weight Tier Distribution**
 
-1.60% of products are classified as light (<500 g)
+✪.60% of products are classified as light (<500 g)
 
-2.30% as medium (500–5000 g)
+✪.30% as medium (500–5000 g)
 
-3.10% as heavy (>5000 g)
+✪.10% as heavy (>5000 g)
 This breakdown helps in packaging, logistics, and delivery planning.
 
 **Revenue Potential by Category**
-Grocery and personal care categories contribute ~70% of the total inventory value, making them high-priority segments for demand forecasting and promotions.
+✪.Grocery and personal care categories contribute ~70% of the total inventory value, making them high-priority segments for demand forecasting and promotions.
 
 
 
-5. **Tech Stack & SQL Features**  
+6. **Tech Stack & SQL Features**  
    - PostgreSQL  
    - Key SQL CONCEPTS: `GROUP BY`, `SUM`, `COUNT`, `CASE`
 
