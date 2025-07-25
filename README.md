@@ -1,4 +1,4 @@
-# 🧩 E‑Commerce Inventory Analysis | PostgreSQL
+# 🧩 E‑Commerce Inventory Analysis | Jupyter Notebook (Python connection to mysql)
 
 **Overview**  
 Analyzed inventory data from Zepto using PostgreSQL. Performed EDA, cleaned data, and answered key business questions on stock levels, discounts, product weight tiers, and revenue per category.
@@ -46,6 +46,6 @@ This breakdown helps in packaging, logistics, and delivery planning.
 
 
 6. **Tech Stack & SQL Features**  
-   - PostgreSQL  
+   - jupyter notebook(python conncetion to mysql)
    - Key SQL CONCEPTS: `GROUP BY`, `SUM`, `COUNT`, `CASE`
 
