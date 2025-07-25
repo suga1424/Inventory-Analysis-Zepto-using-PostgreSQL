@@ -41,6 +41,7 @@ Analyzed inventory data from Zepto using PostgreSQL. Performed EDA, cleaned data
 This breakdown helps in packaging, logistics, and delivery planning.
 
 **Revenue Potential by Category**
+
 ✪.Grocery and personal care categories contribute ~70% of the total inventory value, making them high-priority segments for demand forecasting and promotions.
 
 
